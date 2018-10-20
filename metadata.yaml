@@ -1,5 +1,5 @@
 _repo: Bricks-Without-Straw-A-Novel_6058
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Fiction'
 - !lcc 'PS'
 - !lcsh 'African Americans -- Southern States -- Fiction'
+- GITenberg
 title: 'Bricks Without Straw: A Novel'
 url: http://www.gutenberg.org/ebooks/6058
